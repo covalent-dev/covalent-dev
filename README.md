@@ -1,16 +1,16 @@
-## Hi there 👋
+# Covalent
 
-<!--
-**covalent-dev/covalent-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build automation systems and AI-assisted workflows focused on efficiency, scale, and clarity.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Python automation & orchestration
+- AI-assisted tooling (LLMs, agentic workflows, RAG)
+- Browser automation for repetitive tasks
+- Clean, documented, production-minded code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+- Daily Brief Agent — personalized AI-generated intelligence reports
+- Job Search Automation Toolkit — workflow orchestration for applications & outreach
+- Portfolio Site — technical case studies & live demos
+
+Currently building systems that reduce human effort through thoughtful automation.
