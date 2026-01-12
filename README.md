@@ -1,4 +1,4 @@
-# Covalent
+# Hello 👋
 
 I build automation systems and AI-assisted workflows focused on efficiency, scale, and clarity.
 
