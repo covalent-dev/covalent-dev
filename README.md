@@ -9,8 +9,8 @@ I build automation systems and AI-assisted workflows focused on efficiency, scal
 - Clean, documented, production-minded code
 
 ## Current Projects
-- Personalized Briefing System — daily AI-augmented intelligence reports
-- Job Search Automation Toolkit — workflow orchestration for applications & outreach
+- Daily Brief Agent — daily AI-augmented intelligence reports
+- Job Search Automation Agent — workflow orchestration for applications & outreach
 - Portfolio Site — technical case studies & live demos
 
 Currently building systems that reduce human effort through thoughtful automation.
