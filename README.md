@@ -1,4 +1,4 @@
-# Sam Covalent
+# Covalent Dev
 
 AI/ML Systems Engineer building agents, bots, and automation pipelines.
 
