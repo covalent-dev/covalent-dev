@@ -4,7 +4,7 @@ Development projects and automation tools.
 
 ## Projects
 
-**[Orchestrator](https://github.com/covalent-dev/orchestrator)** — Task queue for running multiple AI agents in parallel. Dashboard for monitoring Claude, Codex, GPT sessions.
+**[Orchestrator](https://github.com/covalent-dev/orchestrator)** — System for running multiple LLM agents in parallel. Dashboard for monitoring Claude, Codex, Gemini sessions.
 
 **[covalent-ai.dev](https://covalent-ai.dev)** — Portfolio site
 
