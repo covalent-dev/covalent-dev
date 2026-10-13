@@ -1,23 +1,10 @@
-# Covalent Development
+# Samuel Takata · Covalent Development
 
-Development projects and automation tools.
+Forward deployed engineer. I build internal tools, integrations and AI features inside other
+companies' systems, in Python and TypeScript.
 
-## Projects
+**[CIRA](https://github.com/covalent-dev/cira)**: client intake with a human review gate, an audit
+trail and source-cited answers. FastAPI, Postgres and pgvector, Docker. The write-up, with what it
+does and does not establish, is at [covalent-ai.dev/work/cira](https://covalent-ai.dev/work/cira/).
 
-**[Orchestrator](https://github.com/covalent-dev/orchestrator)** — System for running multiple LLM agents in parallel. Dashboard for monitoring Claude, Codex, Gemini sessions.
-
-**[covalent-ai.dev](https://covalent-ai.dev)** — Portfolio site
-
-**[Job Search Automation](https://github.com/covalent-dev/job-search-automation-agent)** — Playwright-based job scraper with pagination, deduplication, and salary parsing.
-
-**[Daily Brief Agent](https://github.com/covalent-dev/daily-brief-agent)** — RSS aggregator that summarizes AI/tech news via local LLM.
-
-**[Signal Watch](https://github.com/covalent-dev/signal-watch)** — YouTube intelligence pipeline. Pulls transcripts from AI channels, summarizes with Ollama.
-
-## Development
-
-Each project has its own development setup. Refer to individual project READMEs for details.
-
-## Contact
-
-gifttakata101@gmail.com
+Site: [covalent-ai.dev](https://covalent-ai.dev) · Email: samuel.takata@covalent-ai.dev
